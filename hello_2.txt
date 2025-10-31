@@ -1,2 +1,3 @@
 Hloss Git 2
 First edit (to second file)
+Second edit (to second file)
