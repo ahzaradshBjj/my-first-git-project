@@ -2,3 +2,4 @@ Hloss Git 2
 First edit (to second file)
 Second edit (to second file)
 Third edit (to second file)
+Fourth edit (while in feature1 branch)
